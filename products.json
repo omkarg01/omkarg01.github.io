@@ -1,0 +1,979 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Warm winter hat",
+            "price": 12.7,
+            "image": "https://george-fx.github.io/kastelli/products/01.jpg",
+            "images": [
+                "https://george-fx.github.io/kastelli/products/01.jpg",
+                "https://george-fx.github.io/kastelli/products/01.jpg",
+                "https://george-fx.github.io/kastelli/products/01.jpg"
+            ],
+            "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "colors": [
+                "champagne",
+                "paleCerulean",
+                "opal",
+                "camel",
+                "squidInk"
+            ],
+            "tags": [
+                "kids",
+                "men",
+                "women",
+                "sport",
+                "dress",
+                "pants",
+                "t-shirt",
+                "hat",
+                "unisex",
+                "bag",
+                "accessories",
+                "t-shoes",
+                "polo",
+                "skirt"
+            ],
+            "rating": 5.0,
+            "is_bestseller": true,
+            "is_featured": false,
+            "is_sale": false,
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Adrianna Mercado",
+                    "image": "https://george-fx.github.io/kastelli/reviews/01.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 2,
+                    "name": "Dante Valdez",
+                    "image": "https://george-fx.github.io/kastelli/reviews/02.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 3,
+                    "name": "Troy Ingram",
+                    "image": "https://george-fx.github.io/kastelli/reviews/03.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 4,
+                    "name": "Joshua Bean",
+                    "image": "https://george-fx.github.io/kastelli/reviews/04.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Shor summer dress",
+            "price": 129.0,
+            "old_price": 150.0,
+            "image": "https://george-fx.github.io/kastelli/products/02.jpg",
+            "images": [
+                "https://george-fx.github.io/kastelli/products/02.jpg",
+                "https://george-fx.github.io/kastelli/products/02.jpg",
+                "https://george-fx.github.io/kastelli/products/02.jpg"
+            ],
+            "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "colors": [
+                "champagne",
+                "paleCerulean",
+                "opal",
+                "camel",
+                "squidInk"
+            ],
+            "tags": [
+                "kids",
+                "men",
+                "women",
+                "sport",
+                "dress",
+                "pants",
+                "t-shirt",
+                "hat",
+                "unisex",
+                "bag",
+                "accessories",
+                "t-shoes",
+                "polo",
+                "skirt"
+            ],
+            "rating": 5.0,
+            "is_bestseller": true,
+            "is_featured": false,
+            "is_sale": true,
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Adrianna Mercado",
+                    "image": "https://george-fx.github.io/kastelli/reviews/01.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 2,
+                    "name": "Dante Valdez",
+                    "image": "https://george-fx.github.io/kastelli/reviews/02.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 3,
+                    "name": "Troy Ingram",
+                    "image": "https://george-fx.github.io/kastelli/reviews/03.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 4,
+                    "name": "Joshua Bean",
+                    "image": "https://george-fx.github.io/kastelli/reviews/04.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Long summer dress",
+            "price": 245.9,
+            "image": "https://george-fx.github.io/kastelli/products/03.jpg",
+            "images": [
+                "https://george-fx.github.io/kastelli/products/03.jpg",
+                "https://george-fx.github.io/kastelli/products/03.jpg",
+                "https://george-fx.github.io/kastelli/products/03.jpg"
+            ],
+            "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "colors": [
+                "champagne",
+                "paleCerulean",
+                "opal",
+                "camel",
+                "squidInk"
+            ],
+            "tags": [
+                "kids",
+                "men",
+                "women",
+                "sport",
+                "dress",
+                "pants",
+                "t-shirt",
+                "hat",
+                "unisex",
+                "bag",
+                "accessories",
+                "t-shoes",
+                "polo",
+                "skirt"
+            ],
+            "rating": 5.0,
+            "is_bestseller": true,
+            "is_featured": false,
+            "is_sale": false,
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Adrianna Mercado",
+                    "image": "https://george-fx.github.io/kastelli/reviews/01.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 2,
+                    "name": "Dante Valdez",
+                    "image": "https://george-fx.github.io/kastelli/reviews/02.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 3,
+                    "name": "Troy Ingram",
+                    "image": "https://george-fx.github.io/kastelli/reviews/03.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 4,
+                    "name": "Joshua Bean",
+                    "image": "https://george-fx.github.io/kastelli/reviews/04.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Long summer skirt",
+            "price": 59.0,
+            "image": "https://george-fx.github.io/kastelli/products/04.jpg",
+            "images": [
+                "https://george-fx.github.io/kastelli/products/04.jpg",
+                "https://george-fx.github.io/kastelli/products/04.jpg",
+                "https://george-fx.github.io/kastelli/products/04.jpg"
+            ],
+            "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "colors": [
+                "champagne",
+                "paleCerulean",
+                "opal",
+                "camel",
+                "squidInk"
+            ],
+            "tags": [
+                "kids",
+                "men",
+                "women",
+                "sport",
+                "dress",
+                "pants",
+                "t-shirt",
+                "hat",
+                "unisex",
+                "bag",
+                "accessories",
+                "t-shoes",
+                "polo",
+                "skirt"
+            ],
+            "rating": 5.0,
+            "is_bestseller": true,
+            "is_featured": false,
+            "is_sale": true,
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Adrianna Mercado",
+                    "image": "https://george-fx.github.io/kastelli/reviews/01.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 2,
+                    "name": "Dante Valdez",
+                    "image": "https://george-fx.github.io/kastelli/reviews/02.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 3,
+                    "name": "Troy Ingram",
+                    "image": "https://george-fx.github.io/kastelli/reviews/03.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 4,
+                    "name": "Joshua Bean",
+                    "image": "https://george-fx.github.io/kastelli/reviews/04.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Summer shorts",
+            "price": 39.6,
+            "image": "https://george-fx.github.io/kastelli/products/05.jpg",
+            "images": [
+                "https://george-fx.github.io/kastelli/products/05.jpg",
+                "https://george-fx.github.io/kastelli/products/05.jpg",
+                "https://george-fx.github.io/kastelli/products/05.jpg"
+            ],
+            "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "colors": [
+                "champagne",
+                "paleCerulean",
+                "opal",
+                "camel",
+                "squidInk"
+            ],
+            "tags": [
+                "kids",
+                "men",
+                "women",
+                "sport",
+                "dress",
+                "pants",
+                "t-shirt",
+                "hat",
+                "unisex",
+                "bag",
+                "accessories",
+                "t-shoes",
+                "polo",
+                "skirt"
+            ],
+            "rating": 5.0,
+            "is_bestseller": true,
+            "is_featured": false,
+            "is_sale": false,
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Adrianna Mercado",
+                    "image": "https://george-fx.github.io/kastelli/reviews/01.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 2,
+                    "name": "Dante Valdez",
+                    "image": "https://george-fx.github.io/kastelli/reviews/02.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 3,
+                    "name": "Troy Ingram",
+                    "image": "https://george-fx.github.io/kastelli/reviews/03.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 4,
+                    "name": "Joshua Bean",
+                    "image": "https://george-fx.github.io/kastelli/reviews/04.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Evening dress",
+            "price": 149.9,
+            "old_price": 185.0,
+            "image": "https://george-fx.github.io/kastelli/products/06.jpg",
+            "images": [
+                "https://george-fx.github.io/kastelli/products/06.jpg",
+                "https://george-fx.github.io/kastelli/products/06.jpg",
+                "https://george-fx.github.io/kastelli/products/06.jpg"
+            ],
+            "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "colors": [
+                "champagne",
+                "paleCerulean",
+                "opal",
+                "camel",
+                "squidInk"
+            ],
+            "tags": [
+                "kids",
+                "men",
+                "women",
+                "sport",
+                "dress",
+                "pants",
+                "t-shirt",
+                "hat",
+                "unisex",
+                "bag",
+                "accessories",
+                "t-shoes",
+                "polo",
+                "skirt"
+            ],
+            "rating": 5.0,
+            "is_bestseller": true,
+            "is_featured": false,
+            "is_sale": true,
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Adrianna Mercado",
+                    "image": "https://george-fx.github.io/kastelli/reviews/01.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 2,
+                    "name": "Dante Valdez",
+                    "image": "https://george-fx.github.io/kastelli/reviews/02.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 3,
+                    "name": "Troy Ingram",
+                    "image": "https://george-fx.github.io/kastelli/reviews/03.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 4,
+                    "name": "Joshua Bean",
+                    "image": "https://george-fx.github.io/kastelli/reviews/04.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Long sleeve shirt",
+            "price": 76.0,
+            "image": "https://george-fx.github.io/kastelli/products/07.jpg",
+            "images": [
+                "https://george-fx.github.io/kastelli/products/07.jpg",
+                "https://george-fx.github.io/kastelli/products/07.jpg",
+                "https://george-fx.github.io/kastelli/products/07.jpg"
+            ],
+            "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "colors": [
+                "champagne",
+                "paleCerulean",
+                "opal",
+                "camel",
+                "squidInk"
+            ],
+            "tags": [
+                "kids",
+                "men",
+                "women",
+                "sport",
+                "dress",
+                "pants",
+                "t-shirt",
+                "hat",
+                "unisex",
+                "bag",
+                "accessories",
+                "t-shoes",
+                "polo",
+                "skirt"
+            ],
+            "rating": 5.0,
+            "is_bestseller": false,
+            "is_featured": true,
+            "is_sale": false,
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Adrianna Mercado",
+                    "image": "https://george-fx.github.io/kastelli/reviews/01.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 2,
+                    "name": "Dante Valdez",
+                    "image": "https://george-fx.github.io/kastelli/reviews/02.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 3,
+                    "name": "Troy Ingram",
+                    "image": "https://george-fx.github.io/kastelli/reviews/03.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 4,
+                    "name": "Joshua Bean",
+                    "image": "https://george-fx.github.io/kastelli/reviews/04.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Warm winter hat",
+            "price": 8.6,
+            "image": "https://george-fx.github.io/kastelli/products/08.jpg",
+            "images": [
+                "https://george-fx.github.io/kastelli/products/08.jpg",
+                "https://george-fx.github.io/kastelli/products/08.jpg",
+                "https://george-fx.github.io/kastelli/products/08.jpg"
+            ],
+            "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "colors": [
+                "champagne",
+                "paleCerulean",
+                "opal",
+                "camel",
+                "squidInk"
+            ],
+            "tags": [
+                "kids",
+                "men",
+                "women",
+                "sport",
+                "dress",
+                "pants",
+                "t-shirt",
+                "hat",
+                "unisex",
+                "bag",
+                "accessories",
+                "t-shoes",
+                "polo",
+                "skirt"
+            ],
+            "rating": 5.0,
+            "is_bestseller": false,
+            "is_featured": true,
+            "is_sale": false,
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Adrianna Mercado",
+                    "image": "https://george-fx.github.io/kastelli/reviews/01.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 2,
+                    "name": "Dante Valdez",
+                    "image": "https://george-fx.github.io/kastelli/reviews/02.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 3,
+                    "name": "Troy Ingram",
+                    "image": "https://george-fx.github.io/kastelli/reviews/03.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 4,
+                    "name": "Joshua Bean",
+                    "image": "https://george-fx.github.io/kastelli/reviews/04.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Summer beach hat",
+            "price": 24.5,
+            "old_price": 38.0,
+            "image": "https://george-fx.github.io/kastelli/products/09.jpg",
+            "images": [
+                "https://george-fx.github.io/kastelli/products/09.jpg",
+                "https://george-fx.github.io/kastelli/products/09.jpg",
+                "https://george-fx.github.io/kastelli/products/09.jpg"
+            ],
+            "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "colors": [
+                "champagne",
+                "paleCerulean",
+                "opal",
+                "camel",
+                "squidInk"
+            ],
+            "tags": [
+                "kids",
+                "men",
+                "women",
+                "sport",
+                "dress",
+                "pants",
+                "t-shirt",
+                "hat",
+                "unisex",
+                "bag",
+                "accessories",
+                "t-shoes",
+                "polo",
+                "skirt"
+            ],
+            "rating": 5.0,
+            "is_bestseller": false,
+            "is_featured": true,
+            "is_sale": true,
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Adrianna Mercado",
+                    "image": "https://george-fx.github.io/kastelli/reviews/01.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 2,
+                    "name": "Dante Valdez",
+                    "image": "https://george-fx.github.io/kastelli/reviews/02.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 3,
+                    "name": "Troy Ingram",
+                    "image": "https://george-fx.github.io/kastelli/reviews/03.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 4,
+                    "name": "Joshua Bean",
+                    "image": "https://george-fx.github.io/kastelli/reviews/04.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Small leather backpack",
+            "price": 167.5,
+            "image": "https://george-fx.github.io/kastelli/products/10.jpg",
+            "images": [
+                "https://george-fx.github.io/kastelli/products/10.jpg",
+                "https://george-fx.github.io/kastelli/products/10.jpg",
+                "https://george-fx.github.io/kastelli/products/10.jpg"
+            ],
+            "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "colors": [
+                "champagne",
+                "paleCerulean",
+                "opal",
+                "camel",
+                "squidInk"
+            ],
+            "tags": [
+                "kids",
+                "men",
+                "women",
+                "sport",
+                "dress",
+                "pants",
+                "t-shirt",
+                "hat",
+                "unisex",
+                "bag",
+                "accessories",
+                "t-shoes",
+                "polo",
+                "skirt"
+            ],
+            "rating": 5.0,
+            "is_bestseller": false,
+            "is_featured": true,
+            "is_sale": false,
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Adrianna Mercado",
+                    "image": "https://george-fx.github.io/kastelli/reviews/01.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 2,
+                    "name": "Dante Valdez",
+                    "image": "https://george-fx.github.io/kastelli/reviews/02.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 3,
+                    "name": "Troy Ingram",
+                    "image": "https://george-fx.github.io/kastelli/reviews/03.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 4,
+                    "name": "Joshua Bean",
+                    "image": "https://george-fx.github.io/kastelli/reviews/04.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Modern undershirt",
+            "price": 33.7,
+            "image": "https://george-fx.github.io/kastelli/products/11.jpg",
+            "images": [
+                "https://george-fx.github.io/kastelli/products/11.jpg",
+                "https://george-fx.github.io/kastelli/products/11.jpg",
+                "https://george-fx.github.io/kastelli/products/11.jpg"
+            ],
+            "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "tags": [
+                "kids",
+                "men",
+                "women",
+                "sport",
+                "dress",
+                "pants",
+                "t-shirt",
+                "hat",
+                "unisex",
+                "bag",
+                "accessories",
+                "t-shoes",
+                "polo",
+                "skirt"
+            ],
+            "colors": [
+                "champagne",
+                "paleCerulean",
+                "opal",
+                "camel",
+                "squidInk"
+            ],
+            "rating": 5.0,
+            "is_bestseller": false,
+            "is_featured": true,
+            "is_sale": false,
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Adrianna Mercado",
+                    "image": "https://george-fx.github.io/kastelli/reviews/01.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 2,
+                    "name": "Dante Valdez",
+                    "image": "https://george-fx.github.io/kastelli/reviews/02.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 3,
+                    "name": "Troy Ingram",
+                    "image": "https://george-fx.github.io/kastelli/reviews/03.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 4,
+                    "name": "Joshua Bean",
+                    "image": "https://george-fx.github.io/kastelli/reviews/04.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Summer trainers",
+            "price": 84.2,
+            "image": "https://george-fx.github.io/kastelli/products/12.jpg",
+            "images": [
+                "https://george-fx.github.io/kastelli/products/12.jpg",
+                "https://george-fx.github.io/kastelli/products/12.jpg",
+                "https://george-fx.github.io/kastelli/products/12.jpg"
+            ],
+            "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "colors": [
+                "champagne",
+                "paleCerulean",
+                "opal",
+                "camel",
+                "squidInk"
+            ],
+            "tags": [
+                "kids",
+                "men",
+                "women",
+                "sport",
+                "dress",
+                "pants",
+                "t-shirt",
+                "hat",
+                "unisex",
+                "bag",
+                "accessories",
+                "t-shoes",
+                "polo",
+                "skirt"
+            ],
+            "rating": 5.0,
+            "is_bestseller": false,
+            "is_featured": true,
+            "is_sale": false,
+            "reviews": [
+                {
+                    "id": 1,
+                    "name": "Adrianna Mercado",
+                    "image": "https://george-fx.github.io/kastelli/reviews/01.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 2,
+                    "name": "Dante Valdez",
+                    "image": "https://george-fx.github.io/kastelli/reviews/02.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 3,
+                    "name": "Troy Ingram",
+                    "image": "https://george-fx.github.io/kastelli/reviews/03.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                },
+                {
+                    "id": 4,
+                    "name": "Joshua Bean",
+                    "image": "https://george-fx.github.io/kastelli/reviews/04.jpg",
+                    "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+                    "rating": 5,
+                    "date": "23 Mar"
+                }
+            ]
+        }
+    ]
+}
