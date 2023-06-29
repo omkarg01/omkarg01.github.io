@@ -1,0 +1,33 @@
+{
+    "date": "2023-06-29",
+    "delivery": "2",
+    "discount": "2.9",
+    "isDelivered": false,
+    "isPaid": true,
+    "orderItems": [
+        {
+            "id": 1,
+            "name": "Warm winter hat",
+            "price": 12.7,
+            "image": "https://george-fx.github.io/kastelli/products/01.jpg",
+            "images": [
+                "https://george-fx.github.io/kastelli/products/01.jpg",
+                "https://george-fx.github.io/kastelli/products/01.jpg",
+                "https://george-fx.github.io/kastelli/products/01.jpg"
+            ]
+        }
+    ],
+    "length": 1,
+    "paidAt": "2023-06-29",
+    "paymentMethod": "Visa",
+    "paymentResult": {
+        "id": 1,
+        "status": "success",
+        "update_time": "12:51:19.758Z",
+        "email": "calliemosley@gmail.com"
+    },
+    "shippingAddress": "8000 S Kirkland Ave, Chicago, IL 6065...",
+    "status": "Shipping",
+    "total": "37.20",
+    "user": 1
+}
